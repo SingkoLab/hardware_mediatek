@@ -1,4 +1,0 @@
-service vendor.usb_gadget_default /vendor/bin/hw/android.hardware.usb.gadget-service.mediatek
-    class hal
-    user system
-    group root system shell mtp
